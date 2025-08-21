@@ -88,5 +88,3 @@ vercel deploy --prod
 - [ ] Enterprise team accounts
 
 ---
-
-Built by news addicts, for news addicts. [Join our community](https://discord.gg/futurecast) 📡
